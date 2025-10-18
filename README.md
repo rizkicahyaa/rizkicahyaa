@@ -25,6 +25,6 @@ I specialize in building scalable, responsive, and user-focused web applications
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=rizkicahyaa&show_icons=true&hide_border=true&theme=midnight-purple" height="180em"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkicahyaa&layout=compact&hide_border=true&theme=midnight-purple" height="180em">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkicahyaa&layout=compact&hide_border=true&theme=midnight-purple&langs_count=8" height="180em">
     <img src="https://streak-stats.demolab.com?user=rizkicahyaa&theme=midnight-purple&hide_border=true&mode=weekly" height="180em">
 </p>
