@@ -1,8 +1,7 @@
 <h1 align="center">Hello there! I'm Rizki Cahya 👋</h1>
 
 <p align="center">
-    <img src="assets/mahiru-shiina.gif" width="300px" />
-    <img src="assets/laugh-shiina-mahiru.gif" width="300px" />
+    <img src="assets/cyrene.gif" width="600px" />
 </p>
 
 Hi! My name is Rizki Cahya Ramdani, a Computer Science student at Universitas Amikom Yogyakarta. I have experience as a lab assistant for Programming, Web Programming, and Advanced Programming courses, where I helped students understand coding concepts and build their projects.
