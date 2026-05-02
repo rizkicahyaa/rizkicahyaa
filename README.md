@@ -36,39 +36,6 @@
 
 ---
 
-```json
-{
-    "experience": [
-        {
-            "role": "Lab Assistant",
-            "company": "Forum Asisten — Universitas Amikom Yogyakarta",
-            "topics": ["Programming", "Web Programming", "Advanced Programming"],
-            "impact": "Helped students understand coding concepts & build projects"
-        },
-        {
-            "role": "Fullstack Developer",
-            "company": "Jogja Media Web",
-            "stack": ["PHP", "Laravel", "MySQL", "JavaScript"]
-        }
-    ]
-}
-```
-
----
-
-```json
-{
-    "tech_stack": {
-        "languages": ["PHP", "JavaScript", "Python", "HTML", "CSS"],
-        "frameworks": ["Laravel", "Bootstrap", "Tailwind CSS"],
-        "tools": ["VS Code", "Figma", "Git", "GitHub", "MySQL"],
-        "currently_exploring": ["React", "Next.js", "TypeScript"]
-    }
-}
-```
-
----
-
 <div align="center">
 
 ### `// stats.json`
@@ -132,14 +99,6 @@
 ---
 
 <div align="center">
-
-```json
-{
-    "visitor_count": "..loading",
-    "thank_you": "Thanks for visiting my profile! ⭐",
-    "motto": "Keep coding, keep creating 🚀"
-}
-```
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=rizkicahyaa&color=00d9ff&style=for-the-badge&label=VISITORS)
 
