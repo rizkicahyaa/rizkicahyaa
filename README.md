@@ -13,14 +13,7 @@
         "location": "Yogyakarta, Indonesia 🇮🇩",
         "university": "Universitas Amikom Yogyakarta",
         "degree": "Computer Science"
-    }
-}
-```
-
----
-
-```json
-{
+    },
     "about_me": {
         "role": "Frontend Developer & UI/UX Designer",
         "passion": "Creating clean, user-friendly, and visually appealing interfaces",
@@ -47,19 +40,6 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=rizkicahyaa&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff&border_radius=10)
 
 </div>
-
----
-
-```json
-{
-    "contact": {
-        "email": "rizki.cahya03@gmail.com",
-        "github": "https://github.com/rizkicahyaa",
-        "instagram": "@rizkichrmdn",
-        "status": "always_open_for_collaboration"
-    }
-}
-```
 
 ---
 
