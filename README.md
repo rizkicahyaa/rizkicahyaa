@@ -10,13 +10,9 @@
 {
     "profile": {
         "name": "Rizki Cahya Ramdani",
-        "alias": "rizkicahyaa",
-        "age": 22,
-        "status": "open_to_work",
         "location": "Yogyakarta, Indonesia 🇮🇩",
         "university": "Universitas Amikom Yogyakarta",
-        "degree": "Computer Science",
-        "semester": "Final Year"
+        "degree": "Computer Science"
     }
 }
 ```
@@ -29,7 +25,11 @@
         "role": "Frontend Developer & UI/UX Designer",
         "passion": "Creating clean, user-friendly, and visually appealing interfaces",
         "currently_learning": ["Next.js", "TypeScript"],
-        "fun_fact": "Anime & games often spark my best creative ideas 🎮✨"
+        "hobbies": {
+            "watching": "Anime",
+            "playing": "Games",
+            "creating": "UI Designs"
+        }
     }
 }
 ```
@@ -38,7 +38,7 @@
 
 <div align="center">
 
-### `// stats.json`
+### `// Stats`
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rizkicahyaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&border_radius=10)
 
@@ -47,18 +47,6 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=rizkicahyaa&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff&border_radius=10)
 
 </div>
-
----
-
-```json
-{
-    "hobbies": {
-        "watching": "Anime 🎌",
-        "playing": "Games 🎮",
-        "creating": "UI Designs 🎨"
-    }
-}
-```
 
 ---
 
@@ -77,7 +65,7 @@
 
 <div align="center">
 
-### `// badges.json`
+### `// Tech Stack`
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
