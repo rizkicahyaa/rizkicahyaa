@@ -1,12 +1,5 @@
 <div align="center">
 
-```json
-{
-  "status": "ONLINE",
-  "loading": "██████████ 100%"
-}
-```
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=%7B+%22hello%22%3A+%22world%22+%7D;Rizki+Cahya+Ramdani+%F0%9F%91%8B;Frontend+Dev+%2B+UI%2FUX+Designer;Code.+Design.+Create.+%E2%9C%A8" alt="Typing SVG" />
 
 </div>
@@ -15,50 +8,16 @@
 
 ```json
 {
-  "profile": {
-    "name": "Rizki Cahya Ramdani",
-    "alias": "rizkicahyaa",
-    "age": 22,
-    "status": "open_to_work",
-    "location": "Yogyakarta, Indonesia 🇮🇩",
-    "university": "Universitas Amikom Yogyakarta",
-    "degree": "Computer Science",
-    "semester": "Final Year"
-  }
-}
-```
-
----
-
-```json
-{
-  "about_me": {
-    "role": "Frontend Developer & UI/UX Designer",
-    "passion": "Creating clean, user-friendly, and visually appealing interfaces",
-    "philosophy": "Design is not just what it looks like — it's how it works",
-    "currently_learning": ["Next.js", "Figma Advanced", "TypeScript"],
-    "fun_fact": "Anime & games often spark my best creative ideas 🎮✨"
-  }
-}
-```
-
----
-
-```json
-{
-  "experience": [
-    {
-      "role": "Lab Assistant",
-      "company": "Forum Asisten — Universitas Amikom Yogyakarta",
-      "topics": ["Programming", "Web Programming", "Advanced Programming"],
-      "impact": "Helped students understand coding concepts & build projects"
-    },
-    {
-      "role": "Fullstack Developer",
-      "company": "Jogja Media Web",
-      "stack": ["PHP", "Laravel", "MySQL", "JavaScript"]
+    "profile": {
+        "name": "Rizki Cahya Ramdani",
+        "alias": "rizkicahyaa",
+        "age": 22,
+        "status": "open_to_work",
+        "location": "Yogyakarta, Indonesia 🇮🇩",
+        "university": "Universitas Amikom Yogyakarta",
+        "degree": "Computer Science",
+        "semester": "Final Year"
     }
-  ]
 }
 ```
 
@@ -66,12 +25,45 @@
 
 ```json
 {
-  "tech_stack": {
-    "languages": ["JavaScript", "PHP", "Python", "HTML", "CSS"],
-    "frameworks": ["Laravel", "Bootstrap", "Tailwind CSS"],
-    "tools": ["VS Code", "Figma", "Git", "GitHub", "MySQL"],
-    "currently_exploring": ["React", "Next.js", "TypeScript"]
-  }
+    "about_me": {
+        "role": "Frontend Developer & UI/UX Designer",
+        "passion": "Creating clean, user-friendly, and visually appealing interfaces",
+        "currently_learning": ["Next.js", "TypeScript"],
+        "fun_fact": "Anime & games often spark my best creative ideas 🎮✨"
+    }
+}
+```
+
+---
+
+```json
+{
+    "experience": [
+        {
+            "role": "Lab Assistant",
+            "company": "Forum Asisten — Universitas Amikom Yogyakarta",
+            "topics": ["Programming", "Web Programming", "Advanced Programming"],
+            "impact": "Helped students understand coding concepts & build projects"
+        },
+        {
+            "role": "Fullstack Developer",
+            "company": "Jogja Media Web",
+            "stack": ["PHP", "Laravel", "MySQL", "JavaScript"]
+        }
+    ]
+}
+```
+
+---
+
+```json
+{
+    "tech_stack": {
+        "languages": ["PHP", "JavaScript", "Python", "HTML", "CSS"],
+        "frameworks": ["Laravel", "Bootstrap", "Tailwind CSS"],
+        "tools": ["VS Code", "Figma", "Git", "GitHub", "MySQL"],
+        "currently_exploring": ["React", "Next.js", "TypeScript"]
+    }
 }
 ```
 
@@ -93,12 +85,11 @@
 
 ```json
 {
-  "hobbies": {
-    "watching": "Anime 🎌",
-    "playing": "Games 🎮",
-    "creating": "UI Designs 🎨",
-    "listening": "Lo-Fi Music 🎵"
-  }
+    "hobbies": {
+        "watching": "Anime 🎌",
+        "playing": "Games 🎮",
+        "creating": "UI Designs 🎨"
+    }
 }
 ```
 
@@ -106,12 +97,12 @@
 
 ```json
 {
-  "contact": {
-    "email": "rizkicahyaramdani@gmail.com",
-    "github": "https://github.com/rizkicahyaa",
-    "instagram": "@rizkicahyaa_",
-    "status": "always_open_for_collaboration"
-  }
+    "contact": {
+        "email": "rizki.cahya03@gmail.com",
+        "github": "https://github.com/rizkicahyaa",
+        "instagram": "@rizkichrmdn",
+        "status": "always_open_for_collaboration"
+    }
 }
 ```
 
@@ -144,9 +135,9 @@
 
 ```json
 {
-  "visitor_count": "..loading",
-  "thank_you": "Thanks for visiting my profile! ⭐",
-  "motto": "Keep coding, keep creating 🚀"
+    "visitor_count": "..loading",
+    "thank_you": "Thanks for visiting my profile! ⭐",
+    "motto": "Keep coding, keep creating 🚀"
 }
 ```
 
