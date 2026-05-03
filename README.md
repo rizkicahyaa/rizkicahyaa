@@ -1,10 +1,16 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=%7B+%22hello%22%3A+%22world%22+%7D;Rizki+Cahya+Ramdani+%F0%9F%91%8B;Frontend+Dev+%2B+UI%2FUX+Designer;Code.+Design.+Create.+%E2%9C%A8" alt="Typing SVG" />
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=%7B+%22hello%22%3A+%22world%22+%7D;Rizki+Cahya+Ramdani+%F0%9F%91%8B;Frontend+Dev+%2B+UI%2FUX+Designer;Code.+Design.+Create.+%E2%9C%A8" alt="Typing SVG" /> -->
 
-</div>
+### `// Profile`    
 
----
+</div> 
+
+```js
+console.log("Hello!")
+console.log("こんにちは !")
+console.log("Halo!")
+```
 
 ```json
 {
@@ -49,7 +55,6 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -60,7 +65,6 @@
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 </div>
 
