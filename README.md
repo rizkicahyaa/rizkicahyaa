@@ -6,6 +6,13 @@
 
 </div> 
 
+<div align="center">
+    <img src="assets/mahiru-shiina.gif" width="400">
+    <img src="assets/laugh-shiina-mahiru.gif" width="400">
+</div>
+
+<br>
+
 ```js
 console.log("Hello!")
 console.log("こんにちは !")
