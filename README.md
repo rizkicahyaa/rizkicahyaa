@@ -46,7 +46,7 @@ console.log("Halo!")
 
 ### `// Stats`
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rizkicahyaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&border_radius=10)
+![GitHub Stats](https://github-readme-stats-xn39.vercel.app/api?username=rizkicahyaa&show_icons=true&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff&border_radius=10)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkicahyaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&border_radius=10)
 
