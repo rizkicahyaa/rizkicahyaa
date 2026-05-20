@@ -7,8 +7,8 @@
 </div> 
 
 <div align="center">
-    <img src="assets/rei.gif" width="400">
-    <img src="assets/rei2.gif" width="450">
+    <img src="assets/rei.gif" width="40%">
+    <img src="assets/rei2.gif" width="45%">
 </div>
 
 <br>
