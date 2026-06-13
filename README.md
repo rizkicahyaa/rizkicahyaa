@@ -21,16 +21,14 @@ console.log("Halo!")
 
 ```json
 {
-    "profile": {
-        "name": "Rizki Cahya Ramdani",
-        "location": "Yogyakarta, Indonesia 🇮🇩",
-        "university": "Universitas Amikom Yogyakarta",
-        "degree": "Computer Science"
-        "role": "Frontend Developer & UI/UX Designer",
-        "passion": "Creating clean, user-friendly, and visually appealing interfaces",
-        "currently_learning": ["SvelteKit", "Next.js"],
-        "hobbies": ["Anime", "Games"]
-    }
+    "name": "Rizki Cahya Ramdani",
+    "location": "Yogyakarta, Indonesia 🇮🇩",
+    "university": "Universitas Amikom Yogyakarta",
+    "degree": "Computer Science"
+    "role": "Frontend Developer & UI/UX Designer",
+    "passion": "Creating clean, user-friendly, and visually appealing interfaces",
+    "currently_learning": ["SvelteKit", "Next.js"],
+    "hobbies": ["Anime", "Games"]
 }
 ```
 
@@ -42,7 +40,7 @@ console.log("Halo!")
 
 ![GitHub Stats](https://github-readme-stats-xn39.vercel.app/api?username=rizkicahyaa&show_icons=true&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff&border_radius=10)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkicahyaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&border_radius=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkicahyaa&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&border_radius=10)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=rizkicahyaa&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff&border_radius=10)
 
@@ -60,6 +58,7 @@ console.log("Halo!")
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ![React](https://img.shields.io/badge/React-292B2D?style=for-the-badge&logo=react&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-D93677?style=for-the-badge&logo=astro&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-7CB701?style=for-the-badge&logo=node.js&logoColor=white)
