@@ -53,6 +53,7 @@ console.log("Halo!")
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-EA4A24?style=for-the-badge&logo=svelte&logoColor=white)
 
 ![React](https://img.shields.io/badge/React-292B2D?style=for-the-badge&logo=react&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-D93677?style=for-the-badge&logo=astro&logoColor=white)
