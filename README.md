@@ -25,10 +25,7 @@ console.log("Halo!")
     "location": "Yogyakarta, Indonesia 🇮🇩",
     "university": "Universitas Amikom Yogyakarta",
     "degree": "Computer Science"
-    "role": "Frontend Developer & UI/UX Designer",
-    "passion": "Creating clean, user-friendly, and visually appealing interfaces",
-    "currently_learning": ["SvelteKit", "Next.js"],
-    "hobbies": ["Anime", "Games"]
+    "role": "Frontend Developer & UI/UX Designer"
 }
 ```
 
