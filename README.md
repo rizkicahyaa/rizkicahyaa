@@ -1,10 +1,12 @@
-### `Hello, every-nyan~`
-<!-- <div align="center">
+<div align="center">
   
-<img src="assets/rei.gif" width="45%">
+### `Hello, every-nyan~`
+<img src="assets/rei.gif" width="44%">
 <img src="assets/rei2.gif" width="50%">
 
-</div>  -->
+</div> 
+
+<br>
 
 ```bash
 rizkicahyaa@github:~$ whoami
