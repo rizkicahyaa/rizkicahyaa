@@ -41,9 +41,3 @@ Frameworks: Bootstrap, Tailwind CSS, Astro, SvelteKit, React, Next.js
 Database: MySQL
 Tools: Git, NPM, Figma
 ```
-
-<div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=rizkicahyaa&style=for-the-badge&label=VISITORS)
-
-</div>
