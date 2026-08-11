@@ -27,6 +27,7 @@ rizkicahyaa@github:~$ cat profile.json
     "Web Development",
     "UI/UX Design",
     "Graphic Design",
+    "Digital Art",
     "Game Development"
   ]
 }
