@@ -1,6 +1,6 @@
 <div align="center">
   
-### `Hello, every-nyan~`
+### `// Hello, every-nyan~`
 <img src="assets/rei.gif" width="44%">
 <img src="assets/rei2.gif" width="50%">
 
