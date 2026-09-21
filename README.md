@@ -38,7 +38,7 @@ rizkicahyaa@github:~$ cat profile.json
 rizkicahyaa@github:~$ bash techstack.sh
 
 Languages: Javascript, Typescript, PHP
-Frameworks: Bootstrap, Tailwind CSS, Astro, SvelteKit, React, Next.js
+Frameworks: Bootstrap, Tailwind CSS, Astro, SvelteKit, React, Vue, Next.js
 Database: MySQL
 Tools: Git, NPM, Figma
 ```
