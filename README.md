@@ -12,7 +12,7 @@
 rizkicahyaa@github:~$ whoami
 
 Rizki Cahya Ramdani
-Frontend Developer • Graphic Designer • UI/UX
+Frontend Developer • Graphic Designer • UI/UX Designer
 Yogyakarta, Indonesia 🇮🇩
 ```
 
