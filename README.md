@@ -1,8 +1,8 @@
 <div align="center">
   
 ### `// Hello, every-nyan~`
-<img src="assets/rei.gif" width="44%">
-<img src="assets/rei2.gif" width="50%">
+<img src="assets/rei.gif" width="48%">
+<img src="assets/rei3.gif" width="48%">
 
 </div> 
 
